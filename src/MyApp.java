@@ -6,7 +6,7 @@ public class MyApp {
         // Heading
         System.out.println();
         System.out.println();
-        System.out.println("<<<<  Homework 12 (Classes and Methods) >>>>");
+        System.out.println("<<<<  Homework 13 (Classes and Methods) >>>>");
         System.out.println();
         int taskN = 0;
 
