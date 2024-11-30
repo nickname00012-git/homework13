@@ -58,25 +58,7 @@ public class MyApp {
 
         System.out.println("book03.equals(book01) = " + book03.equals(book01));
         System.out.println("book03.equals(book02) = " + book03.equals(book02));
-
-        printSeparator();
-/*
-        // Task 2
-
-        taskN += 1;
-        printTaskHeading(taskN);
-
-/*
-        // Task 3
-
-        taskN += 1;
-        printTaskHeading(taskN);
-        System.out.println("book01 = " + book01.toString());
-        System.out.println("book02 = " + book02.toString());
-*/
-
     }
-
 
     public static void printSeparator() {
         System.out.println();
